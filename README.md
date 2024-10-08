@@ -2,6 +2,9 @@ Towel Data Visualizer
 
 <img width="502" alt="Screen Shot 2024-10-08 at 12 05 00 AM" src="https://github.com/user-attachments/assets/ee70144e-e021-481e-9886-a846d6a4c6a2">
 
+The dataset I used as an example in these pictures is from this kaggle dataset:
+https://www.kaggle.com/datasets/lainguyn123/student-performance-factors?resource=download
+
 <img width="648" alt="Screen Shot 2024-10-08 at 12 04 36 AM" src="https://github.com/user-attachments/assets/fc17dd64-ee9d-49f2-8c6b-f9309382f3bd">
 
 This tool is designed to provide a user-friendly interface for visualizing data from CSV files through various types of plots, such as histograms, scatter plots, box plots, and correlation heatmaps.
